@@ -1,8 +1,8 @@
 *.iml
 .gradle
 /local.properties
-.idea/
-.release/
+/.idea/
+/.release/
 *.apk
 *.aab
 bin/
