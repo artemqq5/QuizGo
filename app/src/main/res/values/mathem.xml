@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="mathem_questions">
+        <item>"The ratio of a and b should be written as"</item>
+        <item>"The types of variations are"</item>
+        <item>"If 2 ratios a : b and c : d are equal then we can write it as"</item>
+        <item>"According to theorem of Invertendo, if a : b = c : d then"</item>
+        <item>"A statement which is expressed as an equivalence of two ratios is known as"</item>
+        <item>"A combination of direct and inverse variations of one or more than one variables is known as"</item>
+        <item>"If a cricket team wins 5 matches and losses 7, then the ratio of the games won to lost is"</item>
+        <item>"Triangles on the same base and of the same altitudes are equal in"</item>
+        <item>"If a line ‘l’ is perpendicular to the line segment and passes through its midpoint, then it is called"</item>
+        <item>"Parallelograms on equal bases and having the same altitude are equal in"</item>
+        <item>"In 2 similar triangles, the measure of their corresponding sides are"</item>
+    </array>
+    <array name="mathem_answer_1">
+        <item>"a + b"</item>
+        <item>"1"</item>
+        <item>"a : b ⁄ c : d"</item>
+        <item>"a : d = b : c"</item>
+        <item>"ratio"</item>
+        <item>"inverse variation"</item>
+        <item>"5 + 7"</item>
+        <item>"angles"</item>
+        <item>"concurrent"</item>
+        <item>"volume"</item>
+        <item>"opposite"</item>
+    </array>
+    <array name="mathem_answer_2">
+        <item>"b : a"</item>
+        <item>"3"</item>
+        <item>"a + b = c + d"</item>
+        <item>"a : c = b : d"</item>
+        <item>"variation"</item>
+        <item>"complex variation"</item>
+        <item>"7"</item>
+        <item>"volume"</item>
+        <item>"right angle"</item>
+        <item>"height"</item>
+        <item>"congruent"</item>
+    </array>
+    <array name="mathem_answer_right">
+        <item>"a : b"</item>
+        <item>"2"</item>
+        <item>"a : b = c : d"</item>
+        <item>"b : a = d : c"</item>
+        <item>"proportion"</item>
+        <item>"joint variation"</item>
+        <item>"5 : 7"</item>
+        <item>"area"</item>
+        <item>"right bisector"</item>
+        <item>"area"</item>
+        <item>"proportional"</item>
+    </array>
+</resources>

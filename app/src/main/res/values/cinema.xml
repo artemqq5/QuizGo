@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="cinema_questions">
+        <item>"Who was the main character in the 2007 movie 300?"</item>
+        <item>"Who directed the Godfather I, in 1972?"</item>
+        <item>"Which famous Hollywood actor died of Aids in 1985?"</item>
+        <item>"Which movie was considered as the late Whitney Houston's debut in movies?"</item>
+        <item>"What movie won an Academy award for best picture in 2011?"</item>
+        <item>"What movie recounts the hardship endured by Jesus of Nazareth?"</item>
+        <item>"Which famous actor played the leading role in the 2004 Oliver stone's film \"Alexander\"?"</item>
+        <item>"What the first cinematographic genre?"</item>
+        <item>"When did the history of film begin?"</item>
+        <item>"What was the main reason why Cary Grant was denied roles into films?"</item>
+    </array>
+    <array name="cinema_answer_1">
+        <item>"King Xerxes"</item>
+        <item>"Martin Scorsese"</item>
+        <item>"Anthony Perkins"</item>
+        <item>"Waiting to exhale"</item>
+        <item>"The Descendants"</item>
+        <item>"Animated show the Righteous Judge"</item>
+        <item>"Jared leto"</item>
+        <item>"Black and white movies"</item>
+        <item>"In the 1910\'s"</item>
+        <item>"The fact that he was too handsome"</item>
+    </array>
+    <array name="cinema_answer_2">
+        <item>"Dilios the narrator"</item>
+        <item>"Nicolas Cage"</item>
+        <item>"Freddie Mercury"</item>
+        <item>"Cinderella"</item>
+        <item>"The Tourist"</item>
+        <item>"King of Egypt"</item>
+        <item>"Anthony Hopkins"</item>
+        <item>"Hollywood Golden Age Movies"</item>
+        <item>"After the first World War"</item>
+        <item>"His sexuality"</item>
+    </array>
+    <array name="cinema_answer_right">
+        <item>"King Leonidas"</item>
+        <item>"Francis Ford Coppola"</item>
+        <item>"Rock Hudson"</item>
+        <item>"The Bodyguard"</item>
+        <item>"The Artist"</item>
+        <item>"The Passion of the Christ"</item>
+        <item>"Colin Farrell"</item>
+        <item>"Motion pictures without sounds"</item>
+        <item>"In the 1890\'s"</item>
+        <item>"His huge neck"</item>
+    </array>
+</resources>

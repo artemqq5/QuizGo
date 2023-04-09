@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="programming_questions">
+        <item>"Who developed Perl language?"</item>
+        <item>"A set of intructions that tells the computer how to behave, what to do and derive at a solution to a particular problem is:"</item>
+        <item>"A set of logically sequenced instructions that allows to find the solution to a problem is:"</item>
+        <item>"The programming language that is used to show pupils the concept and structure of programming is called:"</item>
+        <item>"Algorithms must be all of the following except:"</item>
+        <item>"Which language had codes such as MOV, ADD, SUB ?"</item>
+        <item>"Which of the following had executes programming codes line by line, rather than the whole program:"</item>
+        <item>"All the following are examples of third programming language except:"</item>
+    </array>
+    <array name="programming_answer_1">
+        <item>"David Wheeler"</item>
+        <item>"Algorithm"</item>
+        <item>"Program"</item>
+        <item>"Basic"</item>
+        <item>"Logical"</item>
+        <item>"Java"</item>
+        <item>"Executer"</item>
+        <item>"Fortran"</item>
+    </array>
+    <array name="programming_answer_2">
+        <item>"Dennis Ritchie"</item>
+        <item>"Pseudocode"</item>
+        <item>"Pseudocode"</item>
+        <item>"Java"</item>
+        <item>"Precise"</item>
+        <item>"Pascal"</item>
+        <item>"Compiler"</item>
+        <item>"Pascal"</item>
+    </array>
+    <array name="programming_answer_right">
+        <item>"Larry Wall"</item>
+        <item>"Program"</item>
+        <item>"Algorithm"</item>
+        <item>"Pascal"</item>
+        <item>"Ambiguous"</item>
+        <item>"Assembly"</item>
+        <item>"Interpreter"</item>
+        <item>"C#"</item>
+    </array>
+</resources>

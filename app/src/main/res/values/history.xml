@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="history_questions">
+        <item>"In which year did India get independence from Britain?"</item>
+        <item>"The ancient Egyptians used to sleep on pillows made of:"</item>
+        <item>"World War I began in which year?"</item>
+        <item>"Adolf Hitler was born in which country?"</item>
+        <item>"Where was John F. Kennedy assassinated in?"</item>
+        <item>"Who fought in the war of 1812?"</item>
+        <item>"Which general famously stated, 'I shall return?'"</item>
+        <item>"American involvement in the Korean War took place in which decade?"</item>
+    </array>
+    <array name="history_answer_1">
+        <item>"1945"</item>
+        <item>"Gold"</item>
+        <item>"1939"</item>
+        <item>"France"</item>
+        <item>"New York"</item>
+        <item>"Napoleon"</item>
+        <item>"Omar Bradley"</item>
+        <item>"1920s"</item>
+    </array>
+    <array name="history_answer_2">
+        <item>"1946"</item>
+        <item>"Cotton"</item>
+        <item>"1917"</item>
+        <item>"Germany"</item>
+        <item>"Miami"</item>
+        <item>"Arthur Wellesley"</item>
+        <item>"George Patton"</item>
+        <item>"1960s"</item>
+    </array>
+    <array name="history_answer_right">
+        <item>"1947"</item>
+        <item>"Stones"</item>
+        <item>"1914"</item>
+        <item>"Austria"</item>
+        <item>"Dallas"</item>
+        <item>"Andrew Jackson"</item>
+        <item>"Douglas MacArthur"</item>
+        <item>"1950s"</item>
+    </array>
+</resources>

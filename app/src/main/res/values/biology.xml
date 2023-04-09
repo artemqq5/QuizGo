@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="biology_questions">
+        <item>"Plants receive their nutrients mainly from"</item>
+        <item>"One of the following is not a function of bones"</item>
+        <item>"Plants synthesis protein from"</item>
+        <item>"Process of cell division can take place by"</item>
+        <item>"Most highly intelligent mammals are"</item>
+    </array>
+    <array name="biology_answer_1">
+        <item>"chlorophyll"</item>
+        <item>"place for muscle attachment"</item>
+        <item>"starch"</item>
+        <item>"heterosis"</item>
+        <item>"whales"</item>
+    </array>
+    <array name="biology_answer_2">
+        <item>"atmosphere"</item>
+        <item>"protection of vital organs"</item>
+        <item>"sugar"</item>
+        <item>"fusion"</item>
+        <item>"elephants"</item>
+    </array>
+    <array name="biology_answer_right">
+        <item>"soil"</item>
+        <item>"secretion of hormones for calcium regulation in blood and bones"</item>
+        <item>"amino acids"</item>
+        <item>"mitosis"</item>
+        <item>"dolphins"</item>
+    </array>
+</resources>
